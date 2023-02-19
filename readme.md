@@ -1,0 +1,1 @@
+Repositorio criado para demonstrar exemplos de programas em C para ajudar outros devs no estudo da linguagem.
