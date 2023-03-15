@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1676830304 source:c:\users\gugak\onedrive\documentos\c\exercicio_funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1676830273 source:c:\users\gugak\onedrive\documentos\c\exercicio_funcao\main2.c
+	<stdio.h>
+	<stdlib.h>
+

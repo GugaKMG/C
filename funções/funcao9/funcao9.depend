@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677180502 source:c:\users\aluno\desktop\funcao9\main.c
+	<stdio.h>
+	<stdlib.h>
+
