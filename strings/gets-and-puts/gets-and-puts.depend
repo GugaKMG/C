@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679865529 source:c:\users\gugak\onedrive\documentos\c\gets-and-puts\main.c
+	<stdio.h>
+	<stdlib.h>
+
